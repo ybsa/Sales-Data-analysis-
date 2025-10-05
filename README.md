@@ -29,6 +29,3 @@ This project performs exploratory data analysis (EDA) on a sales dataset using P
 ### 📌 License
 This project is licensed under the Apache 2.0 License.
 
----
-
-Want to add sections for future improvements, contributors, or dataset sources? I can help tailor it further.
